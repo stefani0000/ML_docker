@@ -1,4 +1,4 @@
-# A brief description for the project
+# A brief description of the project
 
 # in github there're two python scripts, one for ML algorithm and one for the app
 - the ML algorithm is a single-layer neural network that uses the sigmoid activation function and loss as binary entropy, it's a model suitable for classification tasks
