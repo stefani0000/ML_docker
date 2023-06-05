@@ -1,7 +1,7 @@
-A brief description for the project
+# A brief description for the project
 
 # in github there're two python scripts, one for ML algorithm and one for the app
-- the ML algorithm is a single-layer neural network that uses the sigmoid activation function, and loss as binary entropy, it's a model suitable for classification tasks
+- the ML algorithm is a single-layer neural network that uses the sigmoid activation function and loss as binary entropy, it's a model suitable for classification tasks
 - the app uses the Flask framework to create a web server that serves predictions using the model; it sets up a web server that accepts a POST request with input data, processes the input using a pre-trained model, and returns the prediction as a JSON response.
 
 # Docker Image
